@@ -57,7 +57,10 @@ export default {
     ripple: true,
     components: [
       'Message',
-      'Button'
+      'Button',
+      'Skeleton',
+      'Chip',
+      'OverlayPanel'
     ],
   },
   // Build Configuration: https://go.nuxtjs.dev/config-build
